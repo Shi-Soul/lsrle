@@ -1,0 +1,6 @@
+[submodule "repos/pgx"]
+	path = repos/pgx
+	url = git@github.com:sotetsuk/pgx.git
+[submodule "repos/gigastep"]
+	path = repos/gigastep
+	url = git@github.com:mlech26l/gigastep.git
