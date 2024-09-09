@@ -7,7 +7,7 @@ A repo for Large Scale RL Environments. Aiming to analyze and build large-scale 
 Article
 
 Repo:
-- Code Size (lines): `gymnax` < `gigastep` < `neural-mmo` < `pgx` < `brax`
+- Code Size (lines): `gymnax` < `gigastep` < `neural-mmo` < `pgx` < `jumanji` < `brax`
 
 GPT Answer
 ```
