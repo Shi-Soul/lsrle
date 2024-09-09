@@ -4,3 +4,15 @@
 [submodule "repos/gigastep"]
 	path = repos/gigastep
 	url = git@github.com:mlech26l/gigastep.git
+[submodule "repos/awesome-rl-envs"]
+	path = repos/awesome-rl-envs
+	url = git@github.com:clvrai/awesome-rl-envs.git
+[submodule "repos/gymnax"]
+	path = repos/gymnax
+	url = git@github.com:RobertTLange/gymnax.git
+[submodule "repos/brax"]
+	path = repos/brax
+	url = git@github.com:google/brax.git
+[submodule "repos/neural-mmo"]
+	path = repos/neural-mmo
+	url = org-14957082@github.com:openai/neural-mmo.git
