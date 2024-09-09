@@ -13,9 +13,9 @@
 [submodule "repos/brax"]
 	path = repos/brax
 	url = git@github.com:google/brax.git
-[submodule "repos/neural-mmo"]
-	path = repos/neural-mmo
-	url = org-14957082@github.com:openai/neural-mmo.git
 [submodule "repos/jumanji"]
 	path = repos/jumanji
 	url = git@github.com:instadeepai/jumanji.git
+[submodule "repos/neuralmmo"]
+	path = repos/neuralmmo
+	url = git@github.com:NeuralMMO/environment.git
