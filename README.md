@@ -9,7 +9,11 @@ Article
 Repo:
 - Code Size (lines): `gymnax` < `gigastep` < `neural-mmo` < `pgx` < `jumanji` < `brax`
 - `gymnax`: simplist jax implementation, most similar to gym, very complete
+  - example code in `gymnax` use a end-to-end jit training loop, which include the RL part and env parts into the whole loop.
 - `gigastep`: very restricted to designed scenarios: a simple gridworld, too many agents with possible obstacles.
+- `neural-mmo`: very complex, it's indeed a GAME! no special acceleration, just game logic.
+- `pgx`: Discrete Action space, board games, similar to `gymnax`, but more games, pay more effort on visualizations.
+
 
 GPT Answer
 ```
