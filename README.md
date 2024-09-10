@@ -8,6 +8,8 @@ Article
 
 Repo:
 - Code Size (lines): `gymnax` < `gigastep` < `neural-mmo` < `pgx` < `jumanji` < `brax`
+- `gymnax`: simplist jax implementation, most similar to gym, very complete
+- `gigastep`: very restricted to designed scenarios: a simple gridworld, too many agents with possible obstacles.
 
 GPT Answer
 ```
